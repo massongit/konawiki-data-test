@@ -8,7 +8,7 @@ It is a simple wiki.
 
 ** Text file
 
-All data file is text file.ddd
+All data file is text file.dddddd
 
 ** Usage
 
