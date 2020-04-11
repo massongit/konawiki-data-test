@@ -17,7 +17,7 @@ Please login first. And push [edit] link.
 ** Easy to link
 
 {{{
-- [[link]]
+- [[link]]ffff
 }}}
 
 ** Plugins
