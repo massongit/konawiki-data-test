@@ -6,7 +6,7 @@ Konawiki3 is wiki clone application.
 
 It is a simple wiki.
 
-** Text file
+** Text fileddd
 
 All data file is text file.dddddd
 
