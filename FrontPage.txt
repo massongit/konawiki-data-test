@@ -9,7 +9,8 @@ It is a simple wiki.sdvvvvdv
 ** Text fileddd
 xxxx
 All data file is text file.dddddd
-
+ffbfbcbfc
+ddgdgg
 ** Usage
 sdvdcvdsvd
 Please login first. And push [edit] link.
